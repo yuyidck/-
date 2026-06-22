@@ -1,0 +1,10 @@
+node_modules/
+*.mp4
+*.mp3
+*-state.json
+xhs_response_*.json
+xhs_*.json
+xhs_*.png
+xhs_*.txt
+xhs_player_sdk.js
+package-lock.json
